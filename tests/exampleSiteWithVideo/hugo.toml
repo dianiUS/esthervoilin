@@ -40,7 +40,7 @@ copyright = "&copy;2024 Your Name"
 
     # Video
     [params.visual.video]
-      enable = true
+      enable = false
       mute = true
       file = "videos/background.mp4"
       # youtubeId = "dk9uNWPP7EA"
