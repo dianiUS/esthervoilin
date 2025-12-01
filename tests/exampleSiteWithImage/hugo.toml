@@ -34,7 +34,7 @@ copyright = "&copy;2024 Your Name"
 
     # Image
     [params.visual.image]
-      enable = true
+      enable = false
       file = "images/background.jpg"
       position = "center center"
 
